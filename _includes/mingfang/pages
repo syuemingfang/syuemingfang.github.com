@@ -1,0 +1,6 @@
+  {% for node in pages %}
+    {% if node.title != null %}
+      	<a href="{{ BASE_PATH }}{{node.url}}">{{node.cTitle}}</a><br />
+      {% endif %}
+  {% endfor %}
+{% assign pages = nil %}
