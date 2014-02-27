@@ -7,7 +7,7 @@ published: true
 ---
 ### Introduction
 **學習完後可獲得**
-物品: `初階DOS指令`
+技能: `初階DOS指令`
 
 ### Getting Started
 #### 初階指令
