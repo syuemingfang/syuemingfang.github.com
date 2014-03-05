@@ -21,17 +21,17 @@ published: true
 
 
 #### 複製 Jekyll Bootstrap 專案到您的 Local 端
-1. 開啟 `命令提示字元` (快捷鍵 `WIN + R` 輸入 `cmd`)
+1. 開啟 **命令提示字元** (快捷鍵 `WIN + R` 輸入 `cmd`)
 2. 輸入 `git clone https://github.com/[Github帳號]/[Github帳號].github.com.git`
 3. 資料夾 `[Github帳號].github.com` 若存在，表示完成
 
 
 #### 安裝 Jekyll
-1. 開啟 `命令提示字元` (快捷鍵 `WIN + R` 輸入 `cmd`)
+1. 開啟 **命令提示字元** (快捷鍵 `WIN + R` 輸入 `cmd`)
 2. 輸入 `gem install jekyll`
 
 
 #### 利用 Jekyll 來即時預覽
-1. 開啟 `命令提示字元` (快捷鍵 `WIN + R` 輸入 `cmd`)
+1. 開啟 **命令提示字元** (快捷鍵 `WIN + R` 輸入 `cmd`)
 2. 輸入 `jekyll serve`
 3. 前往 `http://127.0.0.1:4000` 若可正常顯示，表示完成
