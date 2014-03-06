@@ -1,0 +1,23 @@
+/*
+
+Zenburn style from voldmar.ru (c) Vladimir Epifanov <voldmar@voldmar.ru>
+based on dark.css by Ivan Sagalaev
+
+*/
+
+.reveal pre code {
+  display: block;
+  margin: 1em 0;
+  font-family: Segoe UI;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  padding: 10px;
+  line-height: 1.6em;
+  color: #555;
+  overflow: auto;
+  -webkit-box-shadow: rgba(0,0,0,0.05) 0 1px 5px inset;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-weight: bold;
+}
